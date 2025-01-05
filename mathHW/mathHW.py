@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 import math
 import numpy as np
 
+
+
 # x=np.linspace(-2, 2, 200)
 # f1=6**x
 # f2=6**x-9
@@ -9,7 +11,6 @@ import numpy as np
 # plt.figure()
 # plt.plot(x,f1,"r",x,f2,"b",x,f3,"g")
 # plt.show()
-
 
 # x=np.linspace(-2, 2, 100)
 # f1=1/np.exp(x)
