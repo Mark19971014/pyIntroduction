@@ -23,9 +23,28 @@ import numpy as np
 # plt.plot(x,f1)
 # plt.show()
 
-x=np.linspace(0.000001,10000.1, 100)
-f1=np.log10(x)
-g=np.log(x)
-plt.figure()
-plt.plot(x,f1,"r",x,g,"g")
-plt.show()
+# x=np.linspace(0.000001,10000.1, 100)
+# f1=np.log10(x)
+# g=np.log(x)
+# plt.figure()
+# plt.plot(x,f1,"r",x,g,"g")
+# plt.show()
+
+# import math
+# 100000*math.exp(0.075*4.5)
+
+# import math
+# t=(math.log(8/5))/(0.12)
+# print(t)
+
+# import math
+# t=math.log(1.02,8/5)
+# print(t)
+
+# import math
+# Q=500*math.exp(0.195*12)
+# print(Q)
+
+# import math
+# t=math.log(20)/0.195
+# print(t)
